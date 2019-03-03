@@ -1,0 +1,9 @@
+﻿  Sparta.cpp
+g:\программирование\kozl_dz_17_13\sparta\sparta\sparta.cpp(114): warning C4018: '<': signed/unsigned mismatch
+g:\программирование\kozl_dz_17_13\sparta\sparta\sparta.cpp(126): warning C4018: '<': signed/unsigned mismatch
+g:\программирование\kozl_dz_17_13\sparta\sparta\sparta.cpp(173): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  WeaponsType.h
+  Sparta.vcxproj -> G:\Программирование\Kozl_DZ_17_13\Sparta\Debug\Sparta.exe
+  Sparta.vcxproj -> G:\Программирование\Kozl_DZ_17_13\Sparta\Debug\Sparta.pdb (Full PDB)
